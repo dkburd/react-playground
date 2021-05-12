@@ -1,0 +1,8 @@
+when you arent using jsx synatx for creating a div: 
+
+const greatestDivEver = React.createElement(
+"div",
+null,
+"i am div"
+);
+
